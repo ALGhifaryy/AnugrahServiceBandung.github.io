@@ -287,7 +287,7 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 .slider_section .detail-box .btn-box {
@@ -756,21 +756,7 @@ a:focus {
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
 }
-.contact_section p{
-  width: 100%;
-  border: none;
-  height: 125px;
-  margin-bottom: 25px;
-  padding-left: 25px;
-  background-color: transparent;
-  outline: none;
-  color: #101010;
-  -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
-  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
-  line-height:25px;
- 
- 
-}
+
 .contact_section input::-webkit-input-placeholder {
   color: #131313;
 }
@@ -791,7 +777,7 @@ a:focus {
   height: 120px;
 }
 
-.contact_section button ,a:link, a:visited{
+.contact_section button {
   display: inline-block;
   padding: 12px 45px;
   background-color: #24d278;
@@ -803,9 +789,6 @@ a:focus {
   border-radius: 30px;
   color: #fff;
   margin-top: 35px;
-}
-a:hover, a:active {
-  background-color: rgb(12, 12, 12);
 }
 
 .contact_section button:hover {
